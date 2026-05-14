@@ -1,0 +1,602 @@
+{
+    "products_availability": {
+        "google_ai_pro": true,
+        "google_ai_ultra": true
+    },
+    "custom_product_counter": 3,
+    "payment_methods": {},
+    "ui_buttons": {
+        "browse": "🛍️ Наши товары",
+        "how_it_works": "❓ Как это работает",
+        "freebies": "🎁 Халява",
+        "giveaways": "🎁 Розыгрыши",
+        "new_arrivals": "🗓️ Новинки",
+        "updates": "🔄 Обновления",
+        "my_orders": "🛒 Мои заказы",
+        "profile": "👤 Мой профиль",
+        "referral": "👥 Реферальная",
+        "redeem": "🔑 Ввести код",
+        "support": "🎧 Поддержка",
+        "report": "⚠️ Пожаловаться"
+    },
+    "active_bot_messages": {
+        "5682671649": 557,
+        "5783516999": 726,
+        "5286464765": 703,
+        "7974493661": 732
+    },
+    "freebie_counter": 0,
+    "freebies_enabled": false,
+    "maintenance_mode": true,
+    "ghost_mode": true,
+    "ui_texts": {
+        "welcome": {
+            "text": "🍸 добро пожаловать в cryrae shop\n\nмы первый и самый крупный магазин с площадки olx, предоставляющий доступ к подпискам ИИ и другим сервисам по выгодным ценам 🍴 \n\nперед использованием бота рекомендуем ознакомиться со вкладкой \"❓ Как это работает\"",
+            "entities": [
+                {
+                    "type": "custom_emoji",
+                    "offset": 0,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5350519289256355751"
+                },
+                {
+                    "type": "bold",
+                    "offset": 3,
+                    "length": 30,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 38,
+                    "length": 6,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 47,
+                    "length": 13,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 110,
+                    "length": 12,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 153,
+                    "length": 5,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "custom_emoji",
+                    "offset": 159,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5388646216454121816"
+                },
+                {
+                    "type": "bold",
+                    "offset": 164,
+                    "length": 25,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 227,
+                    "length": 20,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                }
+            ]
+        },
+        "browse_title": {
+            "text": "🍸 наши товары \n\nвыбери то, что подходит тебе👍",
+            "entities": [
+                {
+                    "type": "custom_emoji",
+                    "offset": 0,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5350519289256355751"
+                },
+                {
+                    "type": "bold",
+                    "offset": 3,
+                    "length": 4,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 28,
+                    "length": 17,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "custom_emoji",
+                    "offset": 45,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5330407752705536522"
+                }
+            ]
+        },
+        "how_it_works": {
+            "text": "Здравствуйте!🍸\n\nнаш магазин предоставляет два типа товаров :\n\nтовары без гарантии : ваша подписка может слететь в любой момент, мы не несем ответственности за подписки без гарантии ⛔️\n\nтовары с гарантией : подписка находится на аккаунте купленным вами весь срок без слета с полной гарантией\n( в случае если с вашей подпиской - аккаунтом что то случиться вы сможете обратиться в поддержку )\n\nкак происходит покупка : \nпосле выбора товара выбери удобный способ оплаты для себя💼\nпереведи ровно ту сумму которая указана в товаре и отправь чек \n\nпосле одобрения платежа наша администрация вышлет вам данные для входа в аккаунт\n\nВАЖНО : процесс одобрения платежа и получения вами данных, происходит в течении 24 часов\nв случае если вы не получили данные обращайтесь в поддержку!📞",
+            "entities": [
+                {
+                    "type": "bold",
+                    "offset": 0,
+                    "length": 13,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "custom_emoji",
+                    "offset": 13,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5350519289256355751"
+                },
+                {
+                    "type": "bold",
+                    "offset": 15,
+                    "length": 13,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 43,
+                    "length": 18,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 63,
+                    "length": 6,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 90,
+                    "length": 8,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 169,
+                    "length": 12,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "custom_emoji",
+                    "offset": 182,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5388942221305196361"
+                },
+                {
+                    "type": "bold",
+                    "offset": 186,
+                    "length": 6,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 207,
+                    "length": 8,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 229,
+                    "length": 23,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 275,
+                    "length": 16,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 316,
+                    "length": 21,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 392,
+                    "length": 24,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 418,
+                    "length": 19,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 453,
+                    "length": 13,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "custom_emoji",
+                    "offset": 475,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5390998591516977527"
+                },
+                {
+                    "type": "bold",
+                    "offset": 487,
+                    "length": 5,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 520,
+                    "length": 6,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 537,
+                    "length": 3,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 549,
+                    "length": 9,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 608,
+                    "length": 15,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 625,
+                    "length": 7,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 651,
+                    "length": 7,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 695,
+                    "length": 18,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "custom_emoji",
+                    "offset": 774,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5397735522598659551"
+                }
+            ]
+        },
+        "freebies": {
+            "text": "🎁 *Халява и бонусы*\n\nЗдесь публикуются актуальные промокоды, скидки и информация о бесплатных раздачах.\n\nВыберите интересующий вас бонус ниже:",
+            "entities": null
+        },
+        "giveaways": {
+            "text": "🎁 Розыгрыши — следи за обновлениями!",
+            "entities": null
+        },
+        "new_arrivals": {
+            "text": "🗓️ Новинки уже в пути!",
+            "entities": null
+        },
+        "support": {
+            "text": "🎧 Напиши нам — мы поможем!",
+            "entities": null
+        }
+    },
+    "product_texts": {
+        "18_months": {
+            "text": "google ai pro на 18 месяцев\n\nполучи доступ к :\n\npro версиям gemini\n5тб облачной памяти\nгенерируй видео с veo3 ( 1000 кредитов ежемесячно )\nгенерируй музыку и изучай новые темы в приложении Gemini.\n\nстоимость : 500.000 сум\nгарантия - 6 месяцев",
+            "entities": null
+        },
+        "12_months": {
+            "text": "google ai pro на 12 месяцев\n\nполучи доступ к :\n\npro версиям gemini\n5тб облачной памяти\nгенерируй видео с veo3 ( 1000 кредитов ежемесячно )\nгенерируй музыку и изучай новые темы в приложении Gemini.\n\nстоимость : 250.000 сум\nгарантия - 6 месяцев",
+            "entities": null
+        },
+        "4_months": {
+            "text": "📱 google ai pro на 4 месяца\n\nполучи доступ к :\n\n⭐️ pro версиям gemini \n📂 5тб облачной памяти\n👩‍🎨 генерируй видео с veo3 ( 1000 кредитов ежемесячно )\n🎓 генерируй музыку и изучай новые темы в приложении Gemini.\n\nстоимость : 110.000 сум\nгарантия - 4 месяца",
+            "entities": [
+                {
+                    "type": "custom_emoji",
+                    "offset": 0,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5359758030198031389"
+                },
+                {
+                    "type": "custom_emoji",
+                    "offset": 49,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5258185631355378853"
+                },
+                {
+                    "type": "custom_emoji",
+                    "offset": 72,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5258389041006518073"
+                },
+                {
+                    "type": "custom_emoji",
+                    "offset": 95,
+                    "length": 5,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5258215635996908355"
+                },
+                {
+                    "type": "custom_emoji",
+                    "offset": 153,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5258334872878980409"
+                },
+                {
+                    "type": "bold",
+                    "offset": 215,
+                    "length": 23,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 250,
+                    "length": 8,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                }
+            ]
+        },
+        "1_month_ultra": {
+            "text": "📱 google ai ultra на 1 месяц\n\nполучи доступ к :\n\n⭐️ pro версиям gemini\n📂 5тб облачной памяти\n👩‍🎨 генерируй видео с veo3 ( 25000 кредитов ежемесячно )\n🎓 генерируй музыку и изучай новые темы в приложении Gemini.\n\nстоимость : 250.000 сум\nгарантия - весь 1 месяц",
+            "entities": [
+                {
+                    "type": "custom_emoji",
+                    "offset": 0,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5359758030198031389"
+                },
+                {
+                    "type": "custom_emoji",
+                    "offset": 50,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5258185631355378853"
+                },
+                {
+                    "type": "custom_emoji",
+                    "offset": 72,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5258389041006518073"
+                },
+                {
+                    "type": "custom_emoji",
+                    "offset": 95,
+                    "length": 5,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5258215635996908355"
+                },
+                {
+                    "type": "custom_emoji",
+                    "offset": 154,
+                    "length": 2,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": "5258334872878980409"
+                },
+                {
+                    "type": "bold",
+                    "offset": 216,
+                    "length": 23,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                },
+                {
+                    "type": "bold",
+                    "offset": 251,
+                    "length": 12,
+                    "url": null,
+                    "language": null,
+                    "custom_emoji_id": null
+                }
+            ]
+        }
+    },
+    "custom_products": {
+        "custom_1": {
+            "name": "chatgpt plus",
+            "active": true,
+            "desc": {
+                "text": "📱 chatgpt plus на 1 месяц \n\nполучи доступ к :\n\n⭐️ pro версиям chatgpt\n👏 анализ файлов и данных \n💎 доступ к codex \n🕘 меньше лимитов на создание изображений\n\nстоимость : 175.000 сум \nгарантия - весь 1 месяц",
+                "entities": [
+                    {
+                        "type": "custom_emoji",
+                        "offset": 0,
+                        "length": 2,
+                        "url": null,
+                        "language": null,
+                        "custom_emoji_id": "5359726582447487916"
+                    },
+                    {
+                        "type": "custom_emoji",
+                        "offset": 48,
+                        "length": 2,
+                        "url": null,
+                        "language": null,
+                        "custom_emoji_id": "5258185631355378853"
+                    },
+                    {
+                        "type": "custom_emoji",
+                        "offset": 71,
+                        "length": 2,
+                        "url": null,
+                        "language": null,
+                        "custom_emoji_id": "5258501105293205250"
+                    },
+                    {
+                        "type": "custom_emoji",
+                        "offset": 98,
+                        "length": 2,
+                        "url": null,
+                        "language": null,
+                        "custom_emoji_id": "5359719332542718652"
+                    },
+                    {
+                        "type": "custom_emoji",
+                        "offset": 117,
+                        "length": 2,
+                        "url": null,
+                        "language": null,
+                        "custom_emoji_id": "5199457120428249992"
+                    },
+                    {
+                        "type": "bold",
+                        "offset": 160,
+                        "length": 23,
+                        "url": null,
+                        "language": null,
+                        "custom_emoji_id": null
+                    },
+                    {
+                        "type": "bold",
+                        "offset": 196,
+                        "length": 12,
+                        "url": null,
+                        "language": null,
+                        "custom_emoji_id": null
+                    }
+                ]
+            }
+        },
+        "custom_2": {
+            "name": "capcut pro",
+            "active": true,
+            "desc": {
+                "text": "📱 capcut pro на 1 месяц\n\nполучи доступ к :",
+                "entities": [
+                    {
+                        "type": "custom_emoji",
+                        "offset": 0,
+                        "length": 2,
+                        "url": null,
+                        "language": null,
+                        "custom_emoji_id": "5364339557712020484"
+                    }
+                ]
+            }
+        },
+        "custom_3": {
+            "name": "proton unlimited",
+            "active": true,
+            "desc": {
+                "text": "proton vpn unlimited на месяц",
+                "entities": null
+            }
+        }
+    },
+    "freebie_items": {}
+}
